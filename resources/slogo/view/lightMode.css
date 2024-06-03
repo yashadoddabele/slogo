@@ -1,0 +1,48 @@
+.root {
+  -fx-background-color: white;
+}
+
+.button {
+  -fx-background-color: grey; /* Background color */
+  -fx-border-color: darkgray; /* Border color */
+  -fx-border-width: 1px; /* Border width */
+}
+
+.color-picker {
+  -fx-background-color: grey; /* Background color */
+  -fx-border-color: darkgray; /* Border color */
+  -fx-border-width: 1px; /* Border width */
+}
+
+.combo-box {
+  -fx-background-color: grey; /* Background color */
+  -fx-border-color: darkgray; /* Border color */
+  -fx-border-width: 1px; /* Border width */
+}
+
+.tree-cell {
+  -fx-background-color: lightgrey; /* Background color */
+  -fx-text-fill: black;
+  -fx-border-color: lightgrey; /* Border color */
+  -fx-border-width: 1px; /* Border width */
+}
+
+#turtle-pane {
+  -fx-background-color: grey; /* Background color */
+  -fx-border-color: darkgray; /* Border color */
+  -fx-border-width: 1px; /* Border width */
+}
+
+#variable-content-box {
+  -fx-background-color: lightgrey; /* Background color */
+  -fx-text-fill: black;
+  -fx-border-color: lightgrey; /* Border color */
+  -fx-border-width: 1px; /* Border width */
+}
+
+#command-content-box {
+  -fx-background-color: lightgrey; /* Background color */
+  -fx-text-fill: black;
+  -fx-border-color: lightgrey; /* Border color */
+  -fx-border-width: 1px; /* Border width */
+}

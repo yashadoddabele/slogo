@@ -1,0 +1,6 @@
+fd 50
+rt 90
+fd 50
+rt 90
+make :num 2
+repeat :num [ fd 10 bk 10 ]
